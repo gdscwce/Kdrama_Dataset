@@ -2413,5 +2413,30 @@
                   "episodeCount":16,
                   "seasons":1,
                   "releaseDate":"27 July 2022"
-                }
+                },
+ {
+          "id": 52,
+          "name": "A sad girl",
+          "alias":[],
+          "imdbRating": 7.6,
+          "description": "Yoon Jung-hee is an  designer with a  go-getting personality despite often being looked down upon because of her looks and behaviour. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
+          "genre": ["Romantic Comedy,Drama"],
+          "platform": ["Hansicinema"],
+          "trailer": "https://www.youtube.com/watch?v=oVL0Q1AtagY",
+          "casting": {
+              "actors": [
+                  "Yoon Jung-hee ",
+                  "Jung Gyu-woon",
+                  "Kim Suk-hoon",
+                  "Go Doo-shim ",
+                  "kwak dong-yeon",
+                  "jo han-chul"
+              ],
+              "director": ["Kim Jong-chang"]
+          },
+          "poster": "https://images.app.goo.gl/q2VYZrodrhe5s7",
+          "episodeCount": 58,
+          "seasons": 1,
+          "releaseDate": "January 6 –July 21, 2007"
+      },
   ]
