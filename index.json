@@ -2413,5 +2413,28 @@
                   "episodeCount":16,
                   "seasons":1,
                   "releaseDate":"27 July 2022"
-                }
+                },
+ {
+            "id": 52,
+              "name":"Put Your Head on My Shoulder",
+              "alias":[],
+              "imdbRating": 8.1,
+              "description":"On the cusp of graduation, an accounting major searching for her career winds up living with a genius physics student who shakes up her daily routine.",
+              "genre":["Romance", "Comedy"],
+              "platform":["Netflix"],
+              "trailer":"https://www.netflix.com/in/title/81200229",
+              "casting": {
+                  "actors": [
+                    "Fair Xing",
+                    "Daddi Tang",
+                    "Lin Yi",
+               
+                  ],
+                  "director": ["Zhu Dongning"]
+              },
+              "poster":"https://upload.wikimedia.org/wikipedia/en/5/57/Put_Your_Head_on_My_Shoulder.jpg",
+              "episodeCount":	"24 + 1 special episode (14 mins)",
+              "seasons":1,
+              "releaseDate":"10 April – 16 May 2019"
+            },
   ]
